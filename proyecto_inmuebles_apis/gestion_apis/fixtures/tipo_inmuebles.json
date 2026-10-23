@@ -1,0 +1,23 @@
+[
+    {
+        "model": "gestion_apis.tipo_inmueble",
+        "pk": 1,
+        "fields": {
+            "nombre": "CASA"
+        }
+    },
+    {
+        "model": "gestion_apis.tipo_inmueble",
+        "pk": 2,
+        "fields": {
+            "nombre": "DEPARTAMENTO"            
+        }
+    },
+     {
+        "model": "gestion_apis.tipo_inmueble",
+        "pk": 3,
+        "fields": {
+            "nombre": "PARCELA"           
+        }
+    }
+]
